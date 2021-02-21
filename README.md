@@ -2,4 +2,7 @@
 Useful plugin list that lets you manage your project files.
 * Auto Complete Tag
 * Auto Rename Tag
-* 
+* Color Picker
+* HTML CSS Support
+* Material Icon Theme
+* Path Intellisense
