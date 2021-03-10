@@ -54,3 +54,12 @@ Version: 2.3.0
 Publisher: Christian Kohler
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense
 ```
+### ES7 React/Redux/GraphQL/React-Native snippets
+```
+Name: ES7 React/Redux/GraphQL/React-Native snippets
+Id: dsznajder.es7-react-js-snippets
+Description: Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax
+Version: 3.1.0
+Publisher: dsznajder
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+```
