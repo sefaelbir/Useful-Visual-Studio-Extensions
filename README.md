@@ -81,12 +81,3 @@ Version: 1.0.61
 Publisher: CoenraadS
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
 ```
-### Bracket Pair Colorizer
-```
-Name: Bracket Pair Colorizer
-Id: coenraads.bracket-pair-colorizer
-Description: A customizable extension for colorizing matching brackets
-Version: 1.0.61
-Publisher: CoenraadS
-VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
-```
