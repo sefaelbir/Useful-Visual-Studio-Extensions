@@ -63,3 +63,30 @@ Version: 3.1.0
 Publisher: dsznajder
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
 ```
+### Code Spell Checker
+```
+Name: Code Spell Checker
+Id: streetsidesoftware.code-spell-checker
+Description: Spelling checker for source code
+Version: 1.10.2
+Publisher: Street Side Software
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+```
+### Bracket Pair Colorizer
+```
+Name: Bracket Pair Colorizer
+Id: coenraads.bracket-pair-colorizer
+Description: A customizable extension for colorizing matching brackets
+Version: 1.0.61
+Publisher: CoenraadS
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
+```
+### Bracket Pair Colorizer
+```
+Name: Bracket Pair Colorizer
+Id: coenraads.bracket-pair-colorizer
+Description: A customizable extension for colorizing matching brackets
+Version: 1.0.61
+Publisher: CoenraadS
+VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer
+```
